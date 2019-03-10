@@ -1,0 +1,19 @@
+{
+  "name": "swipeJobsAssignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "geo-distance": "^0.2.0",
+    "geolib": "^2.0.24",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.3.0"
+  }
+}
